@@ -1,7 +1,11 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - CameraController
     - Client
+    - GameManager
+    - PlayerController
+    - PlayerManager
     - ThreadManager
     - UIManager
     Unity.2D.Tilemap.Editor.dll:
@@ -47,7 +51,13 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 21
       Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
     - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
@@ -68,21 +78,21 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1542}
     - Class: 114
-      Script: {instanceID: 1776}
+      Script: {instanceID: 1544}
     - Class: 114
-      Script: {instanceID: 1908}
+      Script: {instanceID: 1778}
     - Class: 114
-      Script: {instanceID: 2264}
+      Script: {instanceID: 1910}
     - Class: 114
-      Script: {instanceID: 2276}
+      Script: {instanceID: 2266}
     - Class: 114
-      Script: {instanceID: 2678}
+      Script: {instanceID: 2278}
     - Class: 114
-      Script: {instanceID: 3084}
+      Script: {instanceID: 2680}
     - Class: 114
-      Script: {instanceID: 3274}
+      Script: {instanceID: 3086}
     - Class: 114
-      Script: {instanceID: 3398}
+      Script: {instanceID: 3276}
     - Class: 114
       Script: {instanceID: 3782}
     - Class: 114
@@ -93,9 +103,19 @@ ScriptsOnlyBuild:
       Script: {instanceID: 4746}
     - Class: 114
       Script: {instanceID: 5086}
+    - Class: 114
+      Script: {instanceID: 17800}
+    - Class: 114
+      Script: {instanceID: 17806}
+    - Class: 114
+      Script: {instanceID: 17812}
+    - Class: 114
+      Script: {instanceID: 18288}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
+      Script: {instanceID: 0}
+    - Class: 136
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
@@ -128,6 +148,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 69415240821be7986b27e72bf9609a30
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
   - hash:
       serializedVersion: 2
       Hash: 5ab533713adae59372fb3e10a585c186
@@ -650,12 +676,6 @@ ScriptsOnlyBuild:
     assemblyName: Cinemachine.dll
     namespaceName: Cinemachine
     className: CinemachineImpulseListener
-  - hash:
-      serializedVersion: 2
-      Hash: 69415240821be7986b27e72bf9609a30
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: Button
   - hash:
       serializedVersion: 2
       Hash: fe2d355deb0ca31d59a0a7cf4d141fc3
@@ -1406,8 +1426,32 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Postprocessing.Runtime.dll
     namespaceName: UnityEngine.Rendering.PostProcessing
     className: AmbientOcclusion
+  - hash:
+      serializedVersion: 2
+      Hash: 19ce4d990b36c942bc272650aa89dc85
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraController
+  - hash:
+      serializedVersion: 2
+      Hash: 47a268a99534634cb60ced5a3a235b14
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameManager
   platform: 19
   scenePathNames:
   - Assets/Scenes/Multiplayer.unity
-  playerPath: C:/Users/Max Meinel/Desktop/firstPersonShooter/01_Server/1.6 Server
+  playerPath: C:/Users/Max Meinel/Desktop/firstPersonShooter/01_Server/1.7 Server
     external ip(93.195.234.98)/frist person shooter.exe

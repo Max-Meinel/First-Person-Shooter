@@ -5,3 +5,13 @@ C:\Users\Max Meinel\source\repos\GameServer\GameServer\obj\Debug\GameServer.cspr
 C:\Users\Max Meinel\source\repos\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
 C:\Users\Max Meinel\source\repos\GameServer\GameServer\obj\Debug\GameServer.exe
 C:\Users\Max Meinel\source\repos\GameServer\GameServer\obj\Debug\GameServer.pdb
+C:\Users\Max Meinel\Frist-Person-Shooter\GameServer\GameServer\bin\Debug\GameServer.exe.config
+C:\Users\Max Meinel\Frist-Person-Shooter\GameServer\GameServer\bin\Debug\GameServer.exe
+C:\Users\Max Meinel\Frist-Person-Shooter\GameServer\GameServer\bin\Debug\GameServer.pdb
+C:\Users\Max Meinel\Frist-Person-Shooter\GameServer\GameServer\obj\Debug\GameServer.csproj.AssemblyReference.cache
+C:\Users\Max Meinel\Frist-Person-Shooter\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\Max Meinel\Frist-Person-Shooter\GameServer\GameServer\obj\Debug\GameServer.exe
+C:\Users\Max Meinel\Frist-Person-Shooter\GameServer\GameServer\obj\Debug\GameServer.pdb
+C:\Users\Max Meinel\Frist-Person-Shooter\GameServer\GameServer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Max Meinel\Frist-Person-Shooter\GameServer\GameServer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Max Meinel\Frist-Person-Shooter\GameServer\GameServer\obj\Debug\GameServer.csproj.CopyComplete

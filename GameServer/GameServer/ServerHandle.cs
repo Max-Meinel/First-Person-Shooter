@@ -16,7 +16,7 @@ namespace GameServer
             {
                 Console.WriteLine($"Player \"{_username}\" (ID: {_fromClient}) has assumed the wrong client ID ({_clientIdCheck})!");
             }
-            //TODO: send player into game
+            Server.clients[_fromClient].SendIntoGame(_username);
         }
     }
 }
